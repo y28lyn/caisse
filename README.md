@@ -1,8 +1,8 @@
-**README - Projet CaisseEnregistreuse**
+#  <img width="30px" height="30px" alt="icone" src="https://cdn-icons-png.flaticon.com/128/4230/4230567.png"> Caisse enregistreuse
 
 Bienvenue dans le projet CaisseEnregistreuse ! Cette application de caisse enregistreuse simple a été développée en C# pour gérer efficacement les opérations courantes d'une caisse, que ce soit dans un contexte de vente au détail ou pour des simulations de transactions.
 
-### Contenu du Projet
+## Contenu du Projet
 
 Le projet est organisé autour de plusieurs classes, chacune ayant un rôle spécifique dans le fonctionnement de la caisse. Je vous propose une brève description des classes principales :
 
@@ -18,7 +18,7 @@ Le projet est organisé autour de plusieurs classes, chacune ayant un rôle spé
 - **TypePaiement:** Définit les modes de paiement disponibles.
 - **Paiement:** Enregistre les détails d'un paiement.
 
-### Fonctionnalités Principales
+## Fonctionnalités Principales
 
 1. **Ajout de Produits :** La caisse permet d'ajouter des produits avec leurs caractéristiques (libellé, description, prix, etc.).
 
@@ -30,10 +30,10 @@ Le projet est organisé autour de plusieurs classes, chacune ayant un rôle spé
 
 5. **Suivi des Opérations de Mise en Coffre :** Enregistre les opérations de mise en coffre d'argent.
 
-### Comment Utiliser le Projet
+## Comment Utiliser le Projet
 
 Le fichier principal est `Program.cs`, qui contient une simulation d'utilisation de la caisse. Je vous invite à exécuter ce fichier pour voir comment la caisse réagit aux différentes opérations, notamment l'ajout de produits, le paiement, et la génération de tickets.
 
-### Personnalisation et Extension
+## Personnalisation et Extension
 
 Vous pouvez personnaliser ce projet en ajoutant de nouvelles fonctionnalités, en modifiant les existantes ou en intégrant le code dans un système plus vaste. Que ce soit pour une utilisation réelle ou pour l'apprentissage, ce projet offre une base solide pour comprendre la logique d'une caisse enregistreuse.
